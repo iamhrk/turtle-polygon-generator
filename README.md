@@ -6,4 +6,6 @@ Once the input is recieved, turtle graphics will draw polygons starting from a t
 
 Each polygon will have outline colors that are randomly generated.
 
-Here is the ![output](https://github.com/iamhrk/turtle-polygon-generator/blob/master/sample-output.jpg?raw=true) for user input = 7
+Here is how the output looks like for user input = 7
+
+![output](https://github.com/iamhrk/turtle-polygon-generator/blob/master/sample-output.jpg?raw=true) 
