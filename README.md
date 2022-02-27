@@ -9,4 +9,4 @@ Each polygon will have outline colors that are randomly generated.
 Here is the sample output for user input 7
 
 
-![sample output]https://github.com/iamhrk/turtle-polygon-generator/sample-output.jpg?raw=true)
+![sample output](https://github.com/iamhrk/turtle-polygon-generator/sample-output.jpg?raw=true)
